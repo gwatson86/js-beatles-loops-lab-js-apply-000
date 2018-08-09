@@ -24,7 +24,7 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(x) {
-  var beatlesMania[];
+  var beatlesMania = [];
   do {
     beatlesMania.push("I love the Beatles!");
     x++;
